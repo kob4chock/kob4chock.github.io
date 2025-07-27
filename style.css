@@ -1,0 +1,123 @@
+*{
+  margin: 0;  
+  padding: 0;
+}
+body{
+    background-image: url(img/image_1.png);
+}
+header{
+    background-color: #5299AB;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    gap: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    gap: 30px;
+    display: inline-block;
+    background-color: darkblue;
+    padding: 6px 16px;
+    border-radius: 6px;
+}
+.Vector{
+    padding: 30px;
+}
+.fr{
+    display: flex;
+    align-items: center;
+    color: white;
+    background-color: black;
+    padding: 6px 16px;
+    border-radius: 6px;
+}
+.fr2{
+    color: black;
+    background-color: white;
+    padding: 3px 8px;
+    border-radius: 6px;
+
+}
+.wow{
+    font-size: 40px;
+    color: white;
+    background-color: black;
+    padding: 12px 32px;
+    border-radius: 6px;
+}
+.wow2{
+   font-size: 30px;
+   color: white;
+   background-color: black;
+   padding: 12px 32px;
+   border-radius: 6px;
+}
+.wow3{
+    width: 400px;
+    height: 400px;
+}
+.post3{
+    display: flex;
+}
+footer{
+    background: black;
+}
+.foot{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.ff{
+    margin-top: 80px;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+}
+.ff2{
+    margin-top: 80px;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+}
+.ff3{
+    margin-top: 80px;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+}
+.post2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    gap: 30px;
+}
+.fp2{
+    height: 300px;
+    width: 400px;
+    padding: 20px;
+}
+.divok{
+    height: 50px;
+}
+.fr4{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    color: white;
+    display: flex;
+    flex-direction: column-reverse;
+}
+h4{
+    color: wheat;
+    display: flex;
+    flex-direction: column-reverse;
+}
